@@ -88,9 +88,9 @@ img {
     padding: 0;
     display: grid;
     grid-template-areas:
-        'aboutMe Languages'
-        'love love'
-        'social social';
+        "aboutMe Languages"
+        "love love"
+        "social social";
     column-gap: 1rem;
 }
 
